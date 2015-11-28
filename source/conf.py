@@ -47,7 +47,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Dokutemplate FIXME'
+project = u'Linbo für Anfänger'
 copyright = u'2015, FIXME'
 
 # The version info for the project you're documenting, acts as replacement for

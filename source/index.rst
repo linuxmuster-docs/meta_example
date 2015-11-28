@@ -19,11 +19,7 @@ Contents:
    blockquote
    bilder
    tabellen
-
-.. note:: This is a paragraph
-
-   - Here is a bullet list.
-
+   blubber
 
 
 Index 
