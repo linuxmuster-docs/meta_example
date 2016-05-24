@@ -5,11 +5,12 @@
 
 linuxmuster.net FIXME Titel
 ======================================
+
 Das ist die Hauptdatei, die enthält zunächst nur das Inhaltsverzeichnis. 
 Jedes Kapitel der Dokumentation kommt in eine eigene Datei, die hier 
 eingebunden wird.
 
-Contents:
+Inhalt:
 
 .. toctree::
    :maxdepth: 2
@@ -25,7 +26,7 @@ Contents:
 
 
 Index 
-==================
+-----
 
 * :ref:`genindex`
 * :ref:`search`
