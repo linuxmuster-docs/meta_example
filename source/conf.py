@@ -204,8 +204,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'Installationsleitfaden.tex', u'linuxmuster.net Installationsleitfaden',
-   u'Maurice und Kai', 'manual'),
+  ('index', 'FIXME.tex', u'linuxmuster.net FIXME-Titel',
+   u'Author FIXME', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -249,7 +249,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'Installationsleitfaden', u'Installationsleitfaden Documentation',
-   u'Maurice und Kai', 'Installationsleitfaden', 'One line description of project.',
+   u'Author', 'Installationsleitfaden', 'One line description of project.',
    'Miscellaneous'),
 ]
 
@@ -337,4 +337,5 @@ epub_exclude_files = ['search.html']
 
 
 # Example configuration for intersphinx: refer to the Python standard library.
-intersphinx_mapping = {'http://docs.python.org/': None}
+# needs internet connection
+#intersphinx_mapping = {'http://docs.python.org/': None}
